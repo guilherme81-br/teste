@@ -5,6 +5,7 @@ public class Teste {
 		System.out.println("Hello World!");
 		int a = 100;
 		int somaTotal = a + 100;
+		int mult = somaTotal * 2;
 		// teste
 		// outro
 		// nova linha
