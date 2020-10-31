@@ -7,6 +7,7 @@ public class Teste {
 		int soma = a + 100;
 		// teste
 		// outro
+		// nova linha
 	}
 	
 
