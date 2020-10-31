@@ -5,6 +5,8 @@ public class Teste {
 		System.out.println("Hello World!");
 		int a = 100;
 		int soma = a + 100;
+		// teste
+		// outro
 	}
 	
 
